@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    overflow-x: hidden;
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    width: 100%;
+    font-family:
+        "Tinkoff Sans",
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        sans-serif;
+}
+
+.scrollable::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+.scrollable::-webkit-scrollbar-track {
+    background: transparent;
+}
+.scrollable::-webkit-scrollbar-thumb {
+    background-color: #e5e7eb;
+    border-radius: calc(infinity * 1px);
+}
+
+@font-face {
+    font-family: "Tinkoff Sans";
+    src:
+        local("Tinkoff Sans Bold"),
+        local("TinkoffSans-Bold"),
+        url("/fonts/TinkoffSans-Bold.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Tinkoff Sans";
+    src:
+        local("Tinkoff Sans Medium"),
+        local("TinkoffSans-Medium"),
+        url("/fonts/TinkoffSans-Medium.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Tinkoff Sans";
+    src:
+        local("Tinkoff Sans Regular"),
+        local("TinkoffSans-Regular"),
+        url("/fonts/TinkoffSans-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

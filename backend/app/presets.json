@@ -1,0 +1,143 @@
+{
+    "rs": {
+        "legal_form": false,
+        "title": "ИП Ильин Петр Леонидович",
+        "last_name": "Ильин",
+        "first_name": "Петр",
+        "middle_name": "Леонидович",
+        "inn": "503240718531",
+        "ogrn": 323508100093805,
+        "telegram_id": 402993204,
+        "address": "143007, Московская область, г. Одинцово, ш. Можайское, д. 79, кв. 1",
+        "default_confidant": {
+            "last_name": "Ильин",
+            "first_name": "Петр",
+            "middle_name": "Леонидович",
+            "phone_number": "+74993228228",
+            "occupation": "ИП"
+        },
+        "requested_product": {
+            "title": "Расчетный счет (тариф «Премиум»)",
+            "documents": [
+                {
+                    "title": "Паспорт РФ"
+                },
+                {
+                    "title": "Регистрационный лист"
+                },
+                {
+                    "title": "Заявления на открытие счета"
+                }
+            ],
+            "specialists": [
+                "Бухгалтер",
+                "Феечка церковная"
+            ],
+            "duration_minutes": 30
+        },
+        "last_known_location": {
+            "coordinates": {
+                "latitude": 55.818,
+                "longitude": 37.821
+            },
+            "address_details": {
+                "entrance": "1",
+                "room": "171",
+                "floor": "13",
+                "intercom": "171*1991"
+            },
+            "comment": ""
+        }
+    },
+    "iekvar": {
+        "legal_form": true,
+        "title": "ООО ЭЛИТРИУМ",
+        "last_name": "Ильин",
+        "first_name": "Петр",
+        "middle_name": "Леонидович",
+        "inn": "5032361697",
+        "kpp": "503201001",
+        "ogrn": 1235000071118,
+        "telegram_id": 402993204,
+        "address": "117405, г. Москва, 33-й МКАД км, д. 6, стр. 5",
+        "default_confidant": {
+            "last_name": "Ильин",
+            "first_name": "Петр",
+            "middle_name": "Леонидович",
+            "phone_number": "+74993228228",
+            "occupation": "Директор"
+        },
+        "requested_product": {
+            "title": "Интернет-эквайринг",
+            "documents": [
+                {
+                    "title": "Паспорт РФ"
+                },
+                {
+                    "title": "Устав"
+                },
+                {
+                    "title": "Решение директора"
+                },
+                {
+                    "title": "Заявление на подключение интернет-эквайринга"
+                }
+            ],
+            "specialists": [
+                "Программист"
+            ],
+            "duration_minutes": 30
+        }
+    },
+    "onlinekassa": {
+        "legal_form": true,
+        "title": "АНО ДПО Тинькофф Образование",
+        "last_name": "Смирнова",
+        "first_name": "Варвара",
+        "middle_name": "Андреевна",
+        "inn": "7743270426",
+        "kpp": "774301001",
+        "ogrn": 1187700013786,
+        "telegram_id": 402993204,
+        "address": "125212, г. Москва, вн.тер.г. Муниципальный Округ Головинский, ш Головинское, д. 5, к. 1, помещ. 5016-5017",
+        "default_confidant": {
+            "last_name": "Симрнова",
+            "first_name": "Варвара",
+            "middle_name": "Андреевна",
+            "phone_number": "+74993228228",
+            "occupation": "Директор"
+        },
+        "requested_product": {
+            "title": "Аренда онлайн-кассы",
+            "documents": [
+                {
+                    "title": "Паспорт РФ"
+                },
+                {
+                    "title": "Устав"
+                },
+                {
+                    "title": "Решение собрания акционеров"
+                },
+                {
+                    "title": "Заявление на аренду онлайн-кассы"
+                }
+            ],
+            "specialists": [
+                "Сис админ"
+            ],
+            "duration_minutes": 90
+        },
+        "last_known_location": {
+            "coordinates": {
+                "latitude": 55.774,
+                "longitude": 37.577
+            },
+            "address_details": {
+                "entrance": "5",
+                "room": "10"
+            },
+            "comment": ""
+        }
+    }
+}
